@@ -1,5 +1,5 @@
 # codesoft
-# nternship tasks1 # chatbot #AI
+# internship tasks1 # chatbot #AI
 import re
 
 def simple_chatbot(user_input):
